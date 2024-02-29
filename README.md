@@ -5,7 +5,13 @@
 ![a computer gif](https://64.media.tumblr.com/73764a5da95ac5d96ae1f6fb36f54ba7/a4dd52455f009d53-eb/s500x750/4f6b873122472e70e0285ac827b592c5f8032ee6.gifv "welcome, welcome ")
 
 it's hira nur and i'm currently majoring in computer engineering at yildiz technical. \
-safe to say i'm a software engineer to-be who also has a soft spot for ai technologies.
+safe to say i'm a software engineer to-be who also has a soft spot for ai technologies. \
+
+i'd say i'm great with:
+[![my skills](https://skillicons.dev/icons?i=c,py,java,anaconda&theme=light)]
+
+feel free to reach me from [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/nurmorca)
+
 
 </div>
 
