@@ -1,7 +1,6 @@
 <div align="center">
 
 ### hey,
-<br />
 ![a computer gif](https://64.media.tumblr.com/73764a5da95ac5d96ae1f6fb36f54ba7/a4dd52455f009d53-eb/s500x750/4f6b873122472e70e0285ac827b592c5f8032ee6.gifv "welcome, welcome ")
 
 it's hira nur and i'm currently majoring in computer engineering at yildiz technical. \
