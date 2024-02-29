@@ -1,4 +1,4 @@
-<p align=center>
+<div align="center">
 
 ### hey,
   
@@ -7,7 +7,7 @@
 it's hira nur and i'm currently majoring in computer engineering at yildiz technical. \
 safe to say i'm a software engineer to-be who also has a soft spot for ai technologies.
 
-</p>
+</div>
 
 
 
