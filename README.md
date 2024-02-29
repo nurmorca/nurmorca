@@ -10,7 +10,7 @@ safe to say i'm a software engineer to-be who also has a soft spot for ai techno
 ![my skills](https://skillicons.dev/icons?i=c,py,java,anaconda&theme=light)
 <br />
 <br />
- feel free to reach me from [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/nurmorca)
+ feel free to reach me from [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/nurmorca)
 
 
 </div>
