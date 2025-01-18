@@ -16,7 +16,8 @@ safe to say i'm a software engineer to-be who also has a soft spot for ai techno
 <a href="https://linkedin.com/in/nurmorca" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nurmorca" height="30" width="40" /></a>
 <a href="https://medium.com/@nurmorca" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@nurmorca" height="30" width="40" /></a>
 </p>
-
+<br />
+<br />
 <h3> stats for... nerds:</h3>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nurmorca&show_icons=true&theme=radical&title_color=6347f0&text_color=e2c5c5&bg_color=454545&locale=en" alt="nurmorca" /></p>
 
