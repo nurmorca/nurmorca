@@ -14,7 +14,7 @@ safe to say i'm a software engineer to-be who also has a soft spot for ai techno
  feel free to reach me on
 <p align="center">
 <a href="https://linkedin.com/in/nurmorca" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nurmorca" height="30" width="40" /></a>
-<a href="https://medium.com/@kriptinit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@kriptonit" height="30" width="40" /></a>
+<a href="https://medium.com/@kriptonit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@kriptonit" height="30" width="40" /></a>
 </p>
 <br />
 <br />
