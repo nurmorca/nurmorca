@@ -1,10 +1,10 @@
 <div align="center">
 
-### hey,
+### welcome, welcome
 ![a computer gif](https://64.media.tumblr.com/73764a5da95ac5d96ae1f6fb36f54ba7/a4dd52455f009d53-eb/s500x750/4f6b873122472e70e0285ac827b592c5f8032ee6.gifv "welcome, welcome ")
 
-it's hira! \
-i'm a software engineer who also has a soft spot for ai technologies. 
+it's hira nur! \
+i'm a computer engineering graduate with strong interest in back-end systems and a soft spot for ai technologies.
 <br />
 #### i'd say i'm great with: 
 <!-- ![my skills](https://skillicons.dev/icons?i=c,py,java,anaconda&theme=light) -->
