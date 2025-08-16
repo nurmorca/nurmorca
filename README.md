@@ -1,7 +1,8 @@
 <div align="center">
 
-### welcome! it's hira nur! \
+### welcome! it's hira nur!
 i'm a computer engineering graduate with a strong interest in back-end systems and ai technologies.
+<br />
 ![a computer gif](https://64.media.tumblr.com/73764a5da95ac5d96ae1f6fb36f54ba7/a4dd52455f009d53-eb/s500x750/4f6b873122472e70e0285ac827b592c5f8032ee6.gifv "welcome, welcome ")
 
 #### i'd say i'm great with: 
