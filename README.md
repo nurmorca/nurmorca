@@ -1,7 +1,7 @@
 <div align="center">
 
 ### welcome! it's hira nur!
-i'm a computer engineering graduate with a strong interest in back-end systems and ai technologies.
+i'm a software engineer with a strong interest in back-end systems and ai technologies.
 <br />
 #### i have experience with: 
 <!-- ![my skills](https://skillicons.dev/icons?i=c,py,java,anaconda&theme=light) -->
